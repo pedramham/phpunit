@@ -94,3 +94,4 @@ you're building some reusable library and need to write tests for optional featu
 that use optional libraries. It's used all the time inside Symfony's core.
 
 Next! I want to talk about my *favorite* feature in PHPUnit: data providers!
+
